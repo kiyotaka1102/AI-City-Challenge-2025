@@ -17,7 +17,7 @@ If you use this repository, please consider citing PoseTrack as:
 @misc{zhenyux1e_posetrack,
   author       = {Zelin Ni and Huabin Liu},
   title        = {PoseTrack: Multi-camera Tracking with Pose and ReID},
-  year         = {2023},
+  year         = {2024},
   howpublished = {\url{https://github.com/ZhenyuX1E/PoseTrack}},
   note         = {GitHub repository}
 }
