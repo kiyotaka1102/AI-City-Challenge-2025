@@ -2,7 +2,8 @@
 
 <p align="center">
   This is the official repository for the submission to the 9th NVIDIA AI City Challenge 2025 - Track 1: Multi-Camera 3D Perception. </p>
-  [![arXiv](https://img.shields.io/badge/arXiv-2301.12345-b31b1b.svg)](...)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-2301.12345-b31b1b.svg)](https://github.com/kiyotaka1102/AI-City-Challenge-2025/blob/main/README.md)
 </p>
 
 ## Overall Pipeline
