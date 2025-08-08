@@ -3,7 +3,6 @@
 
 ## Overall Pipeline
 <img src="pipeline-aic25-proposal.png" alt="AIC25-Pipeline" width="650"/>
-
 This is the overall pipeline of our work in the VGCRTrack.
 
 ## Dataset 
