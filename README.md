@@ -2,7 +2,9 @@
 <p>This is the official repository for the submission to the 9th NVIDIA AI City Challenge 2025 - Track 1: Multi-Camera 3D Perception. </p>
 
 ## Overall Pipeline
-To be updating...!
+<img src="pipeline-aic25-proposal.png" alt="AIC25-Pipeline" width="650"/>
+
+This is the overall pipeline of our work in the VGCRTrack.
 
 ## Dataset 
 The official datasets of the Track is available at [AI City Challenge](https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces/blob/main/README.md). 
