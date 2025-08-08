@@ -1,8 +1,14 @@
 # VGCRTrack: Multi-Camera 3D Tracking with View-Aware Geometric Center Refinement
-<p>This is the official repository for the submission to the 9th NVIDIA AI City Challenge 2025 - Track 1: Multi-Camera 3D Perception. </p>
+
+<p align="center">
+  This is the official repository for the submission to the 9th NVIDIA AI City Challenge 2025 - Track 1: Multi-Camera 3D Perception. </p>
+  [![arXiv](https://img.shields.io/badge/arXiv-2301.12345-b31b1b.svg)](...)
+</p>
 
 ## Overall Pipeline
-<img src="pipeline-aic25-proposal.png" alt="AIC25-Pipeline" width="650"/>
+<p align = "center">
+  <img src="pipeline-aic25-proposal.png" alt="AIC25-Pipeline" width="650"/>
+</p>
 This is the overall pipeline of our work in the VGCRTrack.
 
 ## Dataset 
